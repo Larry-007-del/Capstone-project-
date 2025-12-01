@@ -33,7 +33,7 @@ This project requires a specific setup to handle compatibility between modern Go
 #### 1. Clone the Repository
 Initialize the notebook by cloning the base repository:
 ```python
-!git clone [https://github.com/tripathiGithub/ImageClassification_Leaf_Disease.git](https://github.com/tripathiGithub/ImageClassification_Leaf_Disease.git)
+!git clone [https://github.com/Larry-007-del/ImageClassification_Leaf_Disease.git](https://github.com/Larry-007-del/ImageClassification_Leaf_Disease.git)
 import os
 os.chdir('ImageClassification_Leaf_Disease')
 
